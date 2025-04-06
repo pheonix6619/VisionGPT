@@ -1,4 +1,4 @@
-from library import cvzone
+import cvzone
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
