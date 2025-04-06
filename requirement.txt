@@ -57,4 +57,5 @@ urllib3==2.2.2
 virtualenv==20.26.2
 Werkzeug==3.0.3
 wheel==0.43.0
-cvzone
+cvzone==1.5.6
+
